@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color: royalblue
+  }
+  p{
+    text-align: center
+  }
+  .div2{
+    text-align: center;
+    
+  }
+
+  .div2 input{
+    width: 230px;
+    height: 20px;
+  }
+
+  input[type="submit"]{
+    height: 20px;
+    background-color: royalblue;
+    color: white;
+    width: 100%;
+    outline: none;
+    border: none;
+  }
+  .submit3{
+     margin: auto;
+     width: 200px;
+     border-radius: 2px;
+     
+  }
+  button{
+    background-color: forestgreen;
+    color: white;
+    width: 100%;
+    border: none;
+    height: 25px;
+  }
+  .button{
+    margin: auto;
+    width: 150px;
+  }
